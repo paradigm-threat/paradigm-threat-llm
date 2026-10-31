@@ -1,0 +1,14 @@
+---
+description: Route cosmology social Q&A to paradigm-threat-files/cosmos/cosmology/qa
+alwaysApply: true
+---
+
+# paradigm-threat-llm: cosmology Q&A routing
+
+**Canon (in paradigm-threat-files):** `../paradigm-threat-files/docs/LLM_COSMOLOGY_QA.md` → hub `../paradigm-threat-files/cosmos/cosmology/qa/page.md`
+
+Same semantics as `paradigm-threat-files/.cursor/rules/paradigm-threat-cosmology-qa.mdc`:
+
+- **Big Melt / Bang / eternal universe / solar-system lifecycle / public reply templates** → Q1 file in `cosmos/cosmology/qa/`
+- **Einstein math / cosmic extrapolation** → Q2 file
+- **Public replies without site name:** mainstream URLs from Q citation tables
